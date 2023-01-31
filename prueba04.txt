@@ -5,3 +5,7 @@ Linea 02 del archivo de texto
 Linea 03 del archivo de texto
 
 Linea 04 del archivo de texto
+
+Linea 05 del archivo de texto
+
+Linea 06 del archivo de texto
