@@ -8,4 +8,6 @@ Se crea la linea 04 del archivo de texto
 
 Se crea la linea 05 del archivo de texto
 
-Se crea la linea 06 del archivo de texto
+Se crea la linea 06t  del archivo de texto
+
+Se crea la linea 07  del archivo de texto
