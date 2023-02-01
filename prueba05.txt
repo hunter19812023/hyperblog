@@ -3,3 +3,9 @@ Se crea la linea 01 del archivo de texto
 Se crea la linea 02 del archivo de texto
 
 Se crea la linea 03 del archivo de texto
+
+Se crea la linea 04 del archivo de texto
+
+Se crea la linea 05 del archivo de texto
+
+Se crea la linea 06 del archivo de texto
